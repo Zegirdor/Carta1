@@ -1,0 +1,32 @@
+.día_especial { /*.envelope*/
+    background: #FFD700;
+}
+
+.día_especial{ /*.envelope-flap*/
+    border-bottom: 45px solid #FFD700;
+}
+
+.día_especial{ /*.letter--open .envelope-detail*/
+    border-top: 2px solid #FFD700;
+}
+
+.día_especial{ /*.envelope-detail*/
+    background: #FFD700;
+
+    &:before {
+        content: '';
+        background: #FFD700;
+        border: 4px solid #dfbd00;
+    }
+
+    &:after {
+        content: '';
+        background: #FFD700;
+        border: 4px solid #dfbd00;
+    }
+}
+
+.día_especial{ /*.envelope__fold*/
+    background: #FFD700;
+    border: 4px solid #dfbd00;
+}

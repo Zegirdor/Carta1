@@ -1,0 +1,23 @@
+/* @font-face {
+    font-family: Pergamino;
+    src: url("../Fuentes/AlluraRegular.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+} */
+
+@font-face {
+    font-family: Cursiva;
+    src: url("Objetos/AquilineTwo.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+/* @font-face {
+    font-family: 'Allura';
+    src: url('Allura-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+} */
